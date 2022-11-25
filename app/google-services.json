@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373454886981",
+    "project_id": "k-dchatapp",
+    "storage_bucket": "k-dchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373454886981:android:0cd364a04922be03f4ab2c",
+        "android_client_info": {
+          "package_name": "com.example.knightdaychatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373454886981-ds53bk0i6h2qpuq3imf0prli5c3v6vk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdu1qAqMKernnEgrBW4HYP14l0yMtg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373454886981-ds53bk0i6h2qpuq3imf0prli5c3v6vk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
